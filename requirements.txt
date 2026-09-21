@@ -7,3 +7,6 @@ pyjwt
 pytest
 flask-migrate
 alembic
+PyJWT==2.8.0
+marshmallow==3.21.0
+Werkzeug==3.0.1
